@@ -1,0 +1,12 @@
+Da entidade participante com nome, email e nascimento, importar o manipulador de arquivos estruturados em JSON (que está no Slack),
+e rodar um programa com 3 opções para o user:
+
+1 - Listar os participantes já cadastrados em arquivo JSON
+2 - Adicionar participante
+3 - Sair
+
+Usar manipulação de arquivo; 
+
+Paz
+
+# a.oliveira.tlmt -> contato pv no Slack
