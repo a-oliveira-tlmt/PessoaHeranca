@@ -1,0 +1,20 @@
+[
+    {
+        "nome":"Angelica Ramos",
+        "email":"a.ramos96@outlook.com",
+        "nascimento":"1996-08-22"
+    },
+
+    {
+        "nome":"Tiago Henrique",
+        "email":"tiaguinhoda_vila@gmail.com",
+        "nascimento":"1995-11-29"
+    },
+
+    {
+        "nome":"Ubirajara Rossi",
+        "email":"ubirajara.rossi@ee.ufcg.edu.br",
+        "nascimento":"1998-01-09"
+    }
+
+]
